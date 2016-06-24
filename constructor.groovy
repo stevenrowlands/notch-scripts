@@ -1,0 +1,1 @@
+def constructor = java.addConstructor("public " + java.name + "() {}");

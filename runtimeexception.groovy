@@ -1,0 +1,1 @@
+java.template("throw new RuntimeException(\"\${msg}\", \${t:var(java.lang.Throwable)});");
